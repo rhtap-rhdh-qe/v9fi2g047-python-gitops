@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: v9fi2g047-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/v9fi2g047-python
